@@ -1,4 +1,4 @@
-<h1 align="center">Collect Internal and External Links from a web</h1>
+<h1 align="center">Collect Internal and External Links from a website</h1>
 <p align="center">identify and collect external and internal links in the web</p>
 
 ## user guide
